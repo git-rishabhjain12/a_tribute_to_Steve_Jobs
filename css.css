@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header .heading {
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+header .heading h4 {
+    padding-top: 10px;
+}
+
+section #banner {
+    padding: 20px;
+}
+
+section .banner {
+    margin: auto;
+    max-width: 80rem;
+    max-height: auto;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+section .banner blockquote {
+    color: #000;
+    font-size: 3rem;
+    padding-left: 3rem;
+}
+
+section .banner img {
+    height: 500px;
+}
+
+
+section .biography {
+    margin: 2rem auto;
+    padding-top: 1.5rem;
+    max-width: 40rem;
+}
+
+section .biography h1 {
+    font-size: 4rem;
+}
+
+section .biography p {
+    font-size: 1.4rem;
+    max-width: 40rem;
+    padding-top: 1rem;
+}
+
+hr {
+    margin-top: 2rem;
+}
